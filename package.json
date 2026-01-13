@@ -1,4 +1,6 @@
+
 {
-  "name": "rbx-loader",
-  "version": "1.0.0"
+  "name": "premots",
+  "version": "1.0.0",
+  "type": "module"
 }
